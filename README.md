@@ -45,7 +45,9 @@ Para desenvolver este projeto, utilizamos um conjunto de ferramentas padrão em 
 
 ### Como Usar
 
-Para fazer a análise pelo Google Colab apenas acesse o link abaixo
+  Como Acessar no Colab:
+1. Acesse este notebook no Colab:
+   [Abra este notebook no Colab](https://colab.research.google.com/drive/12l4xJ4qjSdDmx2UmUJ9unQDMjGMz0YnP)
 
 Para replicar esta análise em sua máquina local, siga os passos abaixo:
 
