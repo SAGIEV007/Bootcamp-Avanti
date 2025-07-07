@@ -36,7 +36,7 @@ Utilizamos ferramentas consagradas no universo da Ciência de Dados:
 
 
 
- #💻 Rode Localmente
+ # 💻 Rode Localmente
  Clone o repositório
 git clone https://github.com/SAGIEV007/Bootcamp-Avanti.git
 cd Bootcamp-Avanti
