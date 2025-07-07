@@ -34,8 +34,10 @@ Utilizamos ferramentas consagradas no universo da Ciência de Dados:
 # ✅ Acesse Online no Colab
 👉 <a href="https://colab.research.google.com/drive/12l4xJ4qjSdDmx2UmUJ9unQDMjGMz0YnP"><strong>Abra o Notebook no Google Colab</strong></a>
 
-💻 Rode Localmente
-# Clone o repositório
+
+
+ #💻 Rode Localmente
+ Clone o repositório
 git clone https://github.com/SAGIEV007/Bootcamp-Avanti.git
 cd Bootcamp-Avanti
 
