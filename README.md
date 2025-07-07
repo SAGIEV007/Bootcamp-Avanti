@@ -29,7 +29,9 @@ Utilizamos ferramentas consagradas no universo da Ciência de Dados:
 📊 <strong>Matplotlib</strong> & <strong>Seaborn</strong>
 
 ▶️ Como Executar
-✅ Acesse Online no Colab
+
+
+# ✅ Acesse Online no Colab
 👉 <a href="https://colab.research.google.com/drive/12l4xJ4qjSdDmx2UmUJ9unQDMjGMz0YnP"><strong>Abra o Notebook no Google Colab</strong></a>
 
 💻 Rode Localmente
