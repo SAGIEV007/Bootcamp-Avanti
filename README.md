@@ -1,6 +1,6 @@
 <h1 align="center">📊 Análise Exploratória de Dados <small><br>Bootcamp de Ciência de Dados AVANTI</small></h1> <p align="center"> <em>Descobrindo padrões, tendências e insights ocultos nos dados 💡</em> </p>
 🧠 Sobre o Projeto
-Este repositório documenta nosso projeto de <strong><span style="color:#ff8800">Análise Exploratória de Dados (AED)</span></strong>, desenvolvido durante o <strong>Bootcamp de Ciência de Dados da AVANTI</strong>.
+Este repositório documenta nosso projeto de <strong><span style="color:#ff8800">Análise Exploratória de Dados (AED)</span></strong>, desenvolvido durante o <strong>Bootcamp de Ciência de Dados da AVANTI - Cars Data From 1970 to 2024 (Modelo de carros de 1970 a 2024)</strong>.
 
 Nosso foco foi entender a fundo um conjunto de dados antes de qualquer modelagem, identificando <span style="color:#00bfff"><strong>padrões</strong></span>, <span style="color:#00bfff"><strong>tendências</strong></span> e <span style="color:#00bfff"><strong>anomalias</strong></span> que pudessem orientar decisões futuras e gerar insights valiosos.
 
@@ -28,15 +28,15 @@ Utilizamos ferramentas consagradas no universo da Ciência de Dados:
 
 📊 <strong>Matplotlib</strong> & <strong>Seaborn</strong>
 
-▶️ Como Executar
+# ▶️ Como Executar
 
 
-# ✅ Acesse Online no Colab
+ ✅ Acesse Online no Colab
 👉 <a href="https://colab.research.google.com/drive/12l4xJ4qjSdDmx2UmUJ9unQDMjGMz0YnP"><strong>Abra o Notebook no Google Colab</strong></a>
 
 
 
- # 💻 Rode Localmente
+  💻 Rode Localmente
  Clone o repositório
 git clone https://github.com/SAGIEV007/Bootcamp-Avanti.git
 cd Bootcamp-Avanti
