@@ -1,67 +1,63 @@
-<h1 align="center">📊 Análise Exploratória de Dados <small><br>Bootcamp de Ciência de Dados AVANTI</small></h1> <p align="center"> <em>Descobrindo padrões, tendências e insights ocultos nos dados 💡</em> </p>
-🧠 Sobre o Projeto
-Este repositório documenta nosso projeto de <strong><span style="color:#ff8800">Análise Exploratória de Dados (AED)</span></strong>, desenvolvido durante o <strong>Bootcamp de Ciência de Dados da AVANTI - Cars Data From 1970 to 2024 (Modelo de carros de 1970 a 2024)</strong>.
+<h1 align="center">📊 Análise de Dados e Modelagem Preditiva <small><br>Bootcamp de Ciência de Dados AVANTI</small></h1>
+<p align="center">
+  <em>Do insight à predição: uma jornada completa no universo dos dados automotivos 💡</em>
+</p>
 
-Nosso foco foi entender a fundo um conjunto de dados antes de qualquer modelagem, identificando <span style="color:#00bfff"><strong>padrões</strong></span>, <span style="color:#00bfff"><strong>tendências</strong></span> e <span style="color:#00bfff"><strong>anomalias</strong></span> que pudessem orientar decisões futuras e gerar insights valiosos.
+## 🧠 Sobre o Projeto
 
-🛠️ Etapas da Análise
-No notebook Bootcamp_Avanti.ipynb, seguimos as principais etapas da AED:
+Este repositório documenta o projeto completo desenvolvido durante o **Bootcamp de Ciência de Dados da AVANTI**, utilizando o dataset "Cars Data From 1970 to 2024". O trabalho foi dividido em duas entregas principais que foram entregues em uma apresentação completa [aqui](https://www.youtube.com/watch?v=m0VfKA0_Zwk&feature=youtu.be) e também a [apresentação de slides](https://docs.google.com/presentation/d/1l9-mA9BONeSTiVKwTK5LZptg4ovuTGFGGRvhP95hyVU/edit?slide=id.p1#slide=id.p1) completa usada no vídeo:
 
-🔍 <strong><span style="color:#ffa500">Inspeção e Preparação:</span></strong> carregamento, limpeza e pré-processamento dos dados.
+1.  **Análise Exploratória de Dados (AED):** Uma imersão profunda nos dados para entender suas características, identificar <span style="color:#00bfff"><strong>padrões</strong></span>, <span style="color:#00bfff"><strong>tendências</strong></span> e <span style="color:#00bfff"><strong>anomalias</strong></span>. O objetivo foi extrair insights valiosos que pudessem orientar a etapa de modelagem.
 
-📈 <strong><span style="color:#4caf50">Análise Descritiva:</span></strong> uso de estatísticas para compreender variáveis numéricas e categóricas.
+2.  **Modelagem Preditiva:** Com base nos insights da AED, o foco foi construir, treinar e avaliar diferentes modelos de Machine Learning. Realizamos uma **análise comparativa** para determinar qual algoritmo seria mais eficaz para prever informações a partir dos dados.
 
-📊 <strong><span style="color:#2196f3">Visualização de Dados:</span></strong> aplicação de histogramas, box plots, mapas de calor e outros gráficos.
 
-🚨 <strong><span style="color:#f44336">Detecção de Outliers e Correlações:</span></strong> identificação de valores atípicos e relações entre variáveis.
+## 🛠️ Etapas do Projeto
 
-Este processo fortalece qualquer projeto posterior, como a construção de modelos de Machine Learning.
 
-🧰 Tecnologias Utilizadas
+### 📊 Primeira Entrega: Análise Exploratória de Dados
+
+No notebook `Análise_exploratória_de_dados.ipynb`, seguimos um fluxo de trabalho completo de Ciência de Dados:
+
+🔍 **<span style="color:#ffa500">Inspeção e Preparação:</span>** Carregamento, limpeza e pré-processamento dos dados.
+
+📈 **<span style="color:#4caf50">Análise Descritiva:</span>** Uso de estatísticas para compreender variáveis numéricas e categóricas.
+
+📊 **<span style="color:#2196f3">Visualização de Dados:</span>** Aplicação de histogramas, box plots, mapas de calor e outros gráficos para identificar padrões.
+
+🚨 **<span style="color:#f44336">Detecção de Outliers e Correlações:</span>** Identificação de valores atípicos e das relações entre as principais variáveis do dataset.
+
+
+### 🤖 Segunda Entrega: Modelagem Preditiva com análise comparativa de modelos
+
+Já no segundo notebook `Análise_comparativa_de_modelos.ipynb`
+
+⚙️ **<span style="color:#ffa500">Pré-processamento:</span>** Tratamento de dados faltantes, codificação de variáveis categóricas (como `model` e `fuelType`) e normalização das variáveis numéricas para preparar o dataset para os algoritmos.
+
+🧠 **<span style="color:#4caf50">Seleção e Treinamento de Modelos:</span>** Implementação e comparação de, no mínimo, 4 algoritmos diferentes, incluindo:
+* Regressão Linear (como modelo baseline)
+* Árvore de Decisão
+* Support Vector Machine (SVM)
+* Redes Neurais (MLP)
+
+✔️ **<span style="color:#2196f3">Validação Cruzada:</span>** Utilização da técnica de k-fold para garantir a robustez dos modelos, evitando overfitting e assegurando que a performance seja generalizável para novos dados.
+
+📈 **<span style="color:#f44336">Avaliação de Performance:</span>** Análise dos modelos utilizando múltiplas métricas, como Acurácia, Precisão, Recall e F1-Score, para uma comparação justa e detalhada.
+
+## 🧰 Tecnologias Utilizadas
+
 Utilizamos ferramentas consagradas no universo da Ciência de Dados:
 
-🐍 <strong>Python 3.x</strong>
+- 🐍 **Python 3.x**
+- 📒 **Jupyter Notebook**
+- 🧮 **Pandas** & **NumPy**
+- 📊 **Matplotlib** & **Seaborn**
+- 🤖 **Scikit-learn** (para Machine Learning)
 
-📒 <strong>Jupyter Notebook</strong>
+## ▶️ Como Executar
 
-🧮 <strong>Pandas</strong> & <strong>NumPy</strong>
+#### ✅ Acesse Online no Colab a primeira entrega do projeto e a segunda
+primeira 👉 <a href="https://colab.research.google.com/drive/12l4xJ4qjSdDmx2UmUJ9unQDMjGMz0YnP"><strong>Abra o Notebook no Google Colab</strong></a>
 
-📊 <strong>Matplotlib</strong> & <strong>Seaborn</strong>
+segunda 👉 <a href="https://colab.research.google.com/drive/1kffUx3SdQDBm29asFByMB4KfIaT1PSq6"><strong>Abra o Notebook no Google Colab</strong></a>
 
-# ▶️ Como Executar
-
-
- ✅ Acesse Online no Colab
-👉 <a href="https://colab.research.google.com/drive/12l4xJ4qjSdDmx2UmUJ9unQDMjGMz0YnP"><strong>Abra o Notebook no Google Colab</strong></a>
-
-
-
-  💻 Rode Localmente
- Clone o repositório
-git clone https://github.com/SAGIEV007/Bootcamp-Avanti.git
-cd Bootcamp-Avanti
-
-# (Opcional) Crie um ambiente virtual
-python -m venv venv
-source venv/bin/activate  # No Windows: venv\Scripts\activate
-
-# Instale as dependências
-pip install pandas numpy matplotlib seaborn jupyter
-
-# Inicie o Jupyter
-jupyter notebook Bootcamp_Avanti.ipynb
-
-
-👥 Autores
-Projeto colaborativo desenvolvido por estudantes da AVANTI, sob orientação do prof. <strong>Madson Luiz Dantas Dias</strong>:
-
-👨‍💻 Fernando da Conceição Cordeiro Filho
-
-👨‍💻 David William A. Oliveira
-
-👨‍💻 José Vitor Paulino Delmiro
-
-👩‍💻 Maria Eduarda Justino
-
-📄 Licença
-Distribuído sob a licença <strong>MIT</strong>. Veja o arquivo LICENSE para mais informações.
