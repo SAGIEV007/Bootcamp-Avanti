@@ -3,17 +3,15 @@
   <em>Do insight à predição: uma jornada completa no universo dos dados automotivos 💡</em>
 </p>
 
+## 🧠 Sobre o Projeto
+
+Este repositório documenta o projeto completo desenvolvido durante o **Bootcamp de Ciência de Dados da AVANTI**, utilizando o dataset "Cars Data From 1970 to 2024". O trabalho foi dividido em duas entregas principais que foram entregues em uma apresentação completa logo abaixo no youtube e também a [apresentação de slides](https://docs.google.com/presentation/d/1l9-mA9BONeSTiVKwTK5LZptg4ovuTGFGGRvhP95hyVU/edit?slide=id.p1#slide=id.p1) completa usada no vídeo:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=m0VfKA0_Zwk">
     <img src="https://img.youtube.com/vi/m0VfKA0_Zwk/0.jpg" alt="Apresentação do Projeto no YouTube" width="600">
   </a>
 </p>
-
-
-## 🧠 Sobre o Projeto
-
-Este repositório documenta o projeto completo desenvolvido durante o **Bootcamp de Ciência de Dados da AVANTI**, utilizando o dataset "Cars Data From 1970 to 2024". O trabalho foi dividido em duas entregas principais que foram entregues em uma apresentação completa [aqui](https://www.youtube.com/watch?v=m0VfKA0_Zwk&feature=youtu.be) e também a [apresentação de slides](https://docs.google.com/presentation/d/1l9-mA9BONeSTiVKwTK5LZptg4ovuTGFGGRvhP95hyVU/edit?slide=id.p1#slide=id.p1) completa usada no vídeo:
 
 1.  **Análise Exploratória de Dados (AED):** Uma imersão profunda nos dados para entender suas características, identificar <span style="color:#00bfff"><strong>padrões</strong></span>, <span style="color:#00bfff"><strong>tendências</strong></span> e <span style="color:#00bfff"><strong>anomalias</strong></span>. O objetivo foi extrair insights valiosos que pudessem orientar a etapa de modelagem.
 
