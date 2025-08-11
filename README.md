@@ -5,7 +5,7 @@
 
 ## 🧠 Sobre o Projeto
 
-Este repositório documenta o projeto completo desenvolvido durante o **Bootcamp de Ciência de Dados da AVANTI**, utilizando o dataset "Cars Data From 1970 to 2024". O trabalho foi dividido em duas entregas principais que foram entregues em uma apresentação completa logo abaixo no youtube e também a [apresentação de slides](https://docs.google.com/presentation/d/1l9-mA9BONeSTiVKwTK5LZptg4ovuTGFGGRvhP95hyVU/edit?slide=id.p1#slide=id.p1) completa usada no vídeo:
+Este repositório documenta o projeto completo desenvolvido durante o **Bootcamp de Ciência de Dados da AVANTI**, utilizando o dataset "Cars Data From 1970 to 2024". O trabalho foi dividido em duas entregas principais que foram entregues em uma apresentação completa [AQUI](https://www.youtube.com/watch?v=m0VfKA0_Zwk) ou logo abaixo no youtube e também a [apresentação de slides](https://docs.google.com/presentation/d/1l9-mA9BONeSTiVKwTK5LZptg4ovuTGFGGRvhP95hyVU/edit?slide=id.p1#slide=id.p1) completa usada no vídeo:
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=m0VfKA0_Zwk">
